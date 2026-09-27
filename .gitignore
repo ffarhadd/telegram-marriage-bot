@@ -3,3 +3,5 @@ database.db
 bot.log
 __pycache__/
 *.rar
+.gitconfig
+.lesshst
